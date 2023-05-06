@@ -17,12 +17,6 @@ public class A1 {
 	 System.out.println(a[5]);//AIOOBE
 	 System.out.print("Java Program");
 	 System.out.print("Java Program");
-
-	 
-	 
-
-
-	 
  }
 }
 
